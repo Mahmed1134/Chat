@@ -1,1 +1,1 @@
-https://mehamed.freehosting.dev/chats-app/index.php
+https://mehamed.freehosting.dev/chat-app/index.php
